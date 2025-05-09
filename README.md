@@ -55,22 +55,22 @@
 <table>
 <tr>
 <td>
-  <a href="https://instagram.com/rajnishthegreat">
+  <a href="https://instagram.com/Silenthrax">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </td>
 <td>
-  <a href="https://t.me/JARVIS_V2">
+  <a href="https://t.me/Silenthrax">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
 </td>
 <td>
-  <a href="mailto:rajnishmishraaa1@gmail.com">
+  <a href="mailto:Silenthrax@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </td>
 <td>
-  <a href="https://youtube.com/@rajnisha3">
+  <a href="https://youtube.com/@Silenthrax">
     <img src="https://img.shields.io/badge/YouTube-DD0000?style=for-the-badge&logo=youtube&logoColor=white" />
   </a>
 </td>
