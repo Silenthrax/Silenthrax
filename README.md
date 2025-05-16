@@ -9,7 +9,7 @@
   <table>
     <tr>
       <td width="100px" align="center">
-        <img src="https://files.catbox.moe/r2ga8f.jpg" width="90px" style="border-radius: 50%;" />
+        <img src="https://files.catbox.moe/lhf30y.png" width="90px" style="border-radius: 50%;" />
       </td>
       <td>
         <img src="https://readme-typing-svg.herokuapp.com/?color=00BFFF&width=600&lines=%F0%9F%A6%8B+%F0%9F%92%97+WELCOME+TO+MY+GITHUB+%F0%9F%98%8A;%F0%9F%96%A4+THIS+IS+SILENTHRAX+%F0%9F%A5%80;%F0%9F%92%93+THANK+YOU+FOR+VISITING+MY+PROFILE+%F0%9F%8C%B2+%E2%9D%97" />
