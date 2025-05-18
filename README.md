@@ -144,12 +144,12 @@
 <table>
   <tr>
     <td width="50%">
-      <a href="https://github.com/Silenthrax/AnnieXMusic">
+      <a href="https://github.com/Silenthrax/LISA">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=Silenthrax&repo=AnnieXMusic&theme=dracula&hide_border=true" />
       </a>
     </td>
     <td width="50%">
-      <a href="https://github.com/Silenthrax/TuneviaBot">
+      <a href="https://github.com/Silenthrax/BIGFM.">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=Silenthrax&repo=TuneviaBot&theme=dracula&hide_border=true" />
       </a>
     </td>
